@@ -1,0 +1,27 @@
+[
+  {
+    "Nimi": "Inception",
+    "Genre": "Sci-Fi",
+    "Vuosi": 2010
+  },
+  {
+    "Nimi": "Titanic",
+    "Genre": "Draama",
+    "Vuosi": 1997
+  },
+  {
+    "Nimi": "The Dark Knight",
+    "Genre": "Toiminta",
+    "Vuosi": 2008
+  },
+  {
+    "Nimi": "Pulp Fiction",
+    "Genre": "Koomedia",
+    "Vuosi": 1994
+  },
+  {
+    "Nimi": "The Matrix",
+    "Genre": "Sci-Fi",
+    "Vuosi": 1999
+  }
+]

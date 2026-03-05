@@ -1,0 +1,30 @@
+[
+  {
+    "Tyyppi": "Elokuva",
+    "Nimi": "Inception",
+    "Vuosi": 2010,
+    "Genre": "Sci-Fi",
+    "Kausia": null
+  },
+  {
+    "Tyyppi": "Elokuva",
+    "Nimi": "Titanic",
+    "Vuosi": 1997,
+    "Genre": "Draama",
+    "Kausia": null
+  },
+  {
+    "Tyyppi": "Sarja",
+    "Nimi": "Breaking Bad",
+    "Vuosi": 2008,
+    "Genre": null,
+    "Kausia": 5
+  },
+  {
+    "Tyyppi": "Sarja",
+    "Nimi": "The Office",
+    "Vuosi": 2005,
+    "Genre": null,
+    "Kausia": 9
+  }
+]
