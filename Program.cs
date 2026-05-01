@@ -19,5 +19,7 @@
 
         System.Console.WriteLine("Luetut mediat:");
         luettu.TulostaMediat();
+        
+        Console.ReadLine();
     }
 }
